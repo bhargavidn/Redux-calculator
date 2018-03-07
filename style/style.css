@@ -1,0 +1,33 @@
+.container h2 {
+  margin-top: 30px;
+}
+.button-container {
+  display: flex;
+  flex-flow: row wrap;
+  width: 35%;
+}
+.input-container input {
+  align-content: center;
+  background-color: activecaption;
+  height: 75px;
+  margin-bottom: 0;
+  margin-left: 57px;
+  text-align: right;
+  width: 86%;
+  padding-right: 10px;
+  font-size: 25px;
+}
+.input-container {
+  margin: 70px 20px 0 -55px;
+  width:34%;
+}
+
+
+button.btn-default {
+  height: 77px;
+  justify-content: flex-start;
+  overflow: auto;
+  width: 21% !important;
+  font-size:20px;
+}
+    /* border: 1px solid; */
